@@ -12,8 +12,6 @@
 * Algorithms
 * Data Structure
 * JavaScript
-* Node.js
-* Angular
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sakchham11)
 
